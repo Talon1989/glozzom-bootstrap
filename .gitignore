@@ -2,7 +2,14 @@
 .idea/inspectionProfiles/
 .idea/workspace.xml
 node_modules/
+!src/css/slick.css
+!src/css/slick-theme.css
 src/css/
+!src/fonts/slick.eot
+!src/fonts/slick.svg
+!src/fonts/slick.ttf
+!src/fonts/slick.woff
 src/fonts/
+!src/js/slick.js
 !src/js/main.js
 src/js/
